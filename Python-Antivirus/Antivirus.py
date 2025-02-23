@@ -31,8 +31,7 @@ VERSION = "1.0"
 DEV     = "softwarica, mBikal"
 
 # url´s
-Report_issues = "https://github.com/Len-Stevens/Python-Antivirus/issues/new"
-Submit_sample = "https://github.com/Len-Stevens/Python-Antivirus/discussions/8"
+Report_issues = "https://github.com/mbikal/antivirus-bikal/issues/new"
 virus_total_api = "https://www.virustotal.com/api/v3/files/report"
 meta_defender_api = "https://api.metadefender.com/v4/hash/" # + hash
 
